@@ -131,7 +131,7 @@ export function AmericanoModal() {
 
 
 
-{/*========================================================*/}
+
 
 function Latte() {
   const [open, setOpen] = React.useState(false);
@@ -198,7 +198,6 @@ export function LatteModal() {
 }
 
 
-{/*========================================================*/}
 
 function Mocha() {
   const [open, setOpen] = React.useState(false);
@@ -265,7 +264,6 @@ export function MochaModal() {
 }
 
 
-{/*========================================================*/}
 
 function Cappuccino() {
   const [open, setOpen] = React.useState(false);
@@ -332,7 +330,6 @@ export function CappuccinoModal() {
 }
 
 
-{/*========================================================*/}
 
 function Espresso() {
   const [open, setOpen] = React.useState(false);
@@ -399,7 +396,6 @@ export function EspressoModal() {
 }
 
 
-{/*========================================================*/}
 
 function EspressoCream() {
   const [open, setOpen] = React.useState(false);
@@ -464,9 +460,7 @@ export function EspressoCreamModal() {
     </div>
   );
 }
-{/*========================================================*/}
 
-{/*========================================================*/}
 
 function EspressoMacchiato() {
   const [open, setOpen] = React.useState(false);
@@ -531,9 +525,7 @@ export function EspressoMacchiatoModal() {
     </div>
   );
 }
-{/*========================================================*/}
 
-{/*========================================================*/}
 
 function FlatWhite() {
   const [open, setOpen] = React.useState(false);
@@ -598,9 +590,7 @@ export function FlatWhiteModal() {
     </div>
   );
 }
-{/*========================================================*/}
 
-{/*========================================================*/}
 
 function CaramelMachiato() {
   const [open, setOpen] = React.useState(false);
@@ -665,9 +655,7 @@ export function CaramelMachiatoModal() {
     </div>
   );
 }
-{/*========================================================*/}
 
-{/*========================================================*/}
 
 function WhiteChocolateMocha() {
   const [open, setOpen] = React.useState(false);
@@ -732,10 +720,6 @@ export function WhiteChocolateMochaModal() {
     </div>
   );
 }
-{/*========================================================*/}
-
-
-{/*========================================================*/}
 
 function BrewedCoffee() {
   const [open, setOpen] = React.useState(false);
@@ -800,9 +784,6 @@ export function BrewedCoffeeModal() {
     </div>
   );
 }
-{/*========================================================*/}
-
-{/*========================================================*/}
 
 function CaffeMisto() {
   const [open, setOpen] = React.useState(false);
@@ -867,10 +848,7 @@ export function CaffeMistoModal() {
     </div>
   );
 }
-{/*========================================================*/}
 
-
-{/*========================================================*/}
 
 function HotChocolate() {
   const [open, setOpen] = React.useState(false);
@@ -935,9 +913,7 @@ export function HotChocolateModal() {
     </div>
   );
 }
-{/*========================================================*/}
 
-{/*========================================================*/}
 
 function HotChocolateSyrup() {
   const [open, setOpen] = React.useState(false);
@@ -1002,4 +978,3 @@ export function HotChocolateSyrupModal() {
     </div>
   );
 }
-{/*========================================================*/}
